@@ -16,7 +16,7 @@ body {
 }
 
 .app.warm {
-  background-image: url('./assets/warm-bg.jpg');
+  background-image: url('./assets/warm-bg.jpeg');
 }
 
 main {
@@ -26,8 +26,10 @@ main {
 }
 
 .search-box {
+ 
   width: 100%;
   margin: 0 0 75px;
+  
 }
 
 .search-box .search-bar {
